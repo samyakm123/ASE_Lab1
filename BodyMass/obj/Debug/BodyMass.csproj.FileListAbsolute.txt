@@ -1,0 +1,7 @@
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\bin\Debug\BodyMass.exe.config
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\bin\Debug\BodyMass.exe
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\bin\Debug\BodyMass.pdb
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\obj\Debug\BodyMass.csproj.AssemblyReference.cache
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\obj\Debug\BodyMass.csproj.CoreCompileInputs.cache
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\obj\Debug\BodyMass.exe
+E:\NOTES\Sem 7\SE\Lab1\BodyMass\obj\Debug\BodyMass.pdb
